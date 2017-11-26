@@ -1,0 +1,13 @@
+<!-- footer -->
+<div class="footer">
+	<div class="footer__inner inner">
+		<div class="footer__row row">
+			{% for item in footer.links %}
+				<div class="footer__col col-33">
+					<a href="{{ item.href }}" target="_blank">{{ item.text }}</a>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+<!-- ¯\_(ツ)_/¯ -->

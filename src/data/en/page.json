@@ -1,0 +1,670 @@
+{
+	"title": "RAD leding platform and RAD credit card",
+	"hero": {
+		"title": "RAD lending platform and credit card",
+		"description": "We build credit solutions for the crypto economy: P2P lending platform and credit products secured by your crypto assets",
+		"button": "Participate in the ICO",
+		"link": {
+			"href": "documents/RAD-white-paper.pdf",
+			"text": "White paper"
+		},
+		"images": {
+			"card": "img/hero-card.png",
+			"phone": "img/hero-phone.png",
+			"cardAlt": "Card",
+			"phoneAlt": "Phone"
+		},
+		"form": true
+	},
+	"platform": {
+		"backgroundTitle": "P2P",
+		"title": "P2P lending platform",
+		"titleSide": "right",
+		"description": [
+			"With our P2P RAD lending platform that leverages crypto secured lending we aim to unlock tens of billions of dollars, that are currently kept in crypto assets.",
+			"Credit products, that use crypto-secured lending and are built on the P2P RAD lending platform will fill the gap between crypto holdings and real-life fiat spending."
+		],
+		"elements": {
+			"titleSide": "left",
+			"title": "Core elements of the RAD platform",
+			"sections": [
+				{
+					"subtitle": "P2P lending platform",
+					"list": [
+						"Connects investors with borrowers on a digital marketplace augmented with crypto-secured lending.",
+						"Uses an exchange-like matchmaking engine to balance attractive interest rates with a high yield for investors.",
+						"Supports a variety of fiat currencies with platform Fiat tokens."
+					]
+				},
+				{
+					"subtitle": "Crypto secured lending",
+					"list": [
+						"Uses crypto collateral against a fiat loan or credit product.",
+						"Overcollateralizes loans to protect against volatility.",
+						"Provides smart contract-controlled decentralized and secure collateral management technology."
+					]
+				},
+				{
+					"subtitle": "Digital credit history and scoring",
+					"list": [
+						"Allows users to control the disclosure of their digital credit history, which will be accumulated on a blockchain.",
+						"Applies machine learning algorithms to transaction history and cash flow.",
+						"Paves the way for unsecured lending in future stages."
+					]
+				},
+				{
+					"subtitle": "Profit sharing",
+					"text": [
+						"A 1.5% platform fee from all loans originated on the platform and a share of credit cards interchange fee will be distributed among RAD token holders."
+					]
+				}
+			]
+		},
+		"needs": {
+			"titleSide": "right",
+			"title": "Who needs RAD lending?",
+			"sections": [
+				{
+					"subtitle": "Personal investors/traders ",
+					"label": "Credit cards, personal loans",
+					"value": "Individual investors will take advantage of credit cards and personal loans that are secured by their crypto assets."
+				},
+				{
+					"subtitle": "Miners, small crypto businesses",
+					"label": "Small-business Loans",
+					"value": "Mining companies can receive small-business loans against their crypto assets."
+				},
+				{
+					"subtitle": "Post-ICO companies",
+					"label": "Business loans, cash flow loans",
+					"value": "ICO-funded companies can take business loans against their crypto holdings to fund operations."
+				},
+				{
+					"subtitle": "Exchanges, traders",
+					"label": "Margin funding/investment Loan ",
+					"value": "Traders can get access to margin funding for their trading activity by using crypto assets as a collateral."
+				},
+				{
+					"subtitle": "Traditional fiat investors",
+					"label": "Funding capital for P2P lending",
+					"value": "Investors looking for good returns on secure fiat investments are welcome to fund loans and credit products on the RAD platform."
+				}
+			]
+		}
+	},
+	"slider": {
+		"items": [
+			{
+				"title": "First real credit card backed&nbsp;by crypto assets",
+				"img": "img/iphone/iphone-1.png",
+				"imgAlt": "First real",
+				"list": [
+					"Skip the traditional credit scoring.",
+					"Get a real credit limit.",
+					"Enjoy zero interest during the grace period.",
+					"Get a credit limit secured by crypto assets—spend your money, hold your assets.",
+					"Enjoy flexible spending with no transaction fees."
+				]
+			},
+			{
+				"title": "Virtual cards for better spending control and security",
+				"img": "img/iphone/iphone-2.png",
+				"imgAlt": "Virtual Cards",
+				"list": [
+					"Create multiple virtual cards with one click.",
+					"Set limits for every virtual card or lock it for a particular merchant.",
+					"Use a virtual card without compromising your main card.",
+					"In the case of a major credit card hack, you can just dispose the virtual card associated with the merchant.",
+					"Get rid of unsolicited recurring subscriptions by using a temporary virtual card."
+				]
+			},
+			{
+				"title": "Fund the card with fiat or BTC, ETH or ERC20 tokens",
+				"img": "img/iphone/iphone-3.png",
+				"imgAlt": "Fund card",
+				"list": [
+					"Fund your card or repay the card balance in fiat  or in your favorite cryptocurrency.",
+					"Fiat payments and ETH blockchain support  in MVP (first development phase).",
+					"Bitcoin blockchain support and cryptocurrency exchange functionality (available on later development phases)."
+				]
+			},
+			{
+				"title": "Credit limit backed  by&nbsp;crypto&nbsp;assets",
+				"img": "img/iphone/iphone-4.png",
+				"imgAlt": "Credit limit",
+				"list": [
+					"Set the desired size of your card credit limit.",
+					"Find the right balance between the interest rate, credit limit and collateral size.",
+					"Crypto collateral will be secured by a smart contract in a decentralized way."
+				]
+			},
+			{
+				"title": "Security without compromising usability",
+				"img": "img/iphone/iphone-5.png",
+				"imgAlt": "Security",
+				"list": [
+					"Authorize payments with biometric data.",
+					"Integrated with reliable, proven hosted wallet solution.",
+					"Secured your collateral by smart contract on a blockchain.",
+					"Prevent card fraud with an easy “freeze card” function.",
+					"Keep merchant transactions under control with unlimited virtual cards."
+				]
+			}
+		]
+	},
+	"ico": {
+		"backgroundTitle": "ICO",
+		"title": "ICO starts in",
+		"label": "Start date/time",
+		"subtitle": "20 November 2017",
+		"cities": {
+			"first": {
+				"title": "New York",
+				"time": "00:00:00"
+			},
+			"second": {
+				"title": "London",
+				"time": "00:00:00"
+			},
+			"third": {
+				"title": "Singapore",
+				"time": "00:00:00"
+			}
+		}
+	},
+	"invested": {
+		"title": "Invested",
+		"items": [
+			{
+				"icon": "img/icon-usd.svg",
+				"iconAlt": "USD",
+				"value": "3000000",
+				"currency": "USD"
+			},
+			{
+				"icon": "img/icon-eur.svg",
+				"iconAlt": "EUR",
+				"value": "0000000",
+				"currency": "EUR"
+			},
+			{
+				"icon": "img/icon-btc.svg",
+				"iconAlt": "BTC",
+				"value": "10000",
+				"currency": "BTC"
+			},
+			{
+				"icon": "img/icon-eth.svg",
+				"iconAlt": "ETH",
+				"value": "00000",
+				"currency": "ETH"
+			}
+		],
+		"total": {
+			"label": "Total invested",
+			"value": "50000000",
+			"currency": "USD"
+		},
+		"backgroundTitle": "INVESTED",
+		"subtitle": "ICO details",
+		"backgroundSubtitle": "ICO",
+		"content": [
+			{
+				"label": "What is a RAD token? ",
+				"value": [
+					{
+						"text": true,
+						"value": "A RAD token is issued to fund the development of the RAD lending platform and a family of credit products built on it. <br />The RAD lending platform is based on the concept of peer-to-peer (P2P) lending with credit products secured by borrowers' crypto assets."
+					},
+					{
+						"list": true,
+						"label": "A family of credit products will start with:",
+						"value": [
+							"A RAD credit card with a grace period and a credit limit secured by the borrower's crypto assets.",
+							"Personal loans secured by the borrower’s crypto assets."
+						]
+					},
+					{
+						"list": true,
+						"label": "After a successful launch of the platform:",
+						"value": [
+							"The RAD platform will collect a 1.5% origination fee from every credit product or loan originated on the platform as platform revenue.",
+							"RAD Platform will earn a share of the interchange fee on credit cards issued by the platform.",
+							"Platform revenue will be collected automatically through smart contract and stored in the smart contract for distribution among RAD token holders."
+						]
+					}
+				]
+			},
+			{
+				"label": "Symbol",
+				"value": [
+					{
+						"text": true,
+						"value": "RAD"
+					}
+				]
+			},
+			{
+				"label": "Total supply of tokens",
+				"value": [
+					{
+						"text": true,
+						"value": "35.700 million (thirty-five  million, seven hundred thousand) tokens"
+					}
+				]
+			},
+			{
+				"label": "Initial price",
+				"value": [
+					{
+						"text": true,
+						"value": "1 RAD = $5"
+					}
+				]
+			},
+			{
+				"label": "Minimum investment goal",
+				"value": [
+					{
+						"text": true,
+						"value": "$1 million <br />We will refund all investments if this minimum goal is not met "
+					}
+				]
+			},
+			{
+				"label": "Maximum investment cap",
+				"value": [
+					{
+						"text": true,
+						"value": "$50 million <br />We will stop receiving funds after this hard cap is reached. <br />All investments received after reaching the hard cap will be returned."
+					}
+				]
+			},
+			{
+				"label": "Regulation A+ ICO",
+				"value": [
+					{
+						"text": true,
+						"value": "We are preparing to launch one of the first SEC compliant Regulation A+ ICOs. <br />We are seeking SEC qualification for the offering and now in “testing the waters” stage."
+					}
+				]
+			}
+		]
+	},
+	"bonus": {
+		"title": "Bonus schedule",
+		"backgroundSubtitle": "BONUS",
+		"schedule": [
+			{
+				"value": "20%",
+				"label": "bonus",
+				"points": 20,
+				"name": "1 RAD for $3.5",
+				"period": "<$1m raised"
+			},
+			{
+				"value": "10%",
+				"label": "bonus",
+				"points": 10,
+				"name": "1 RAD for $4",
+				"period": "$1m-$5m"
+			},
+			{
+				"value": "5%",
+				"label": "bonus",
+				"points": 5,
+				"name": "1 RAD for $4.5",
+				"period": "$5m-$15m"
+			},
+			{
+				"value": "3%",
+				"label": "bonus",
+				"points": 3,
+				"name": "1 RAD for $4.75",
+				"period": "$15-$30m"
+			},
+			{
+				"value": "0%",
+				"label": "bonus",
+				"points": 0,
+				"name": "1 RAD for $5",
+				"period": "$30m-$50m"
+			}
+		],
+		"img": "img/bonus-card.png",
+		"imgAlt": "Card",
+		"info": {
+			"title": "Special Card Series",
+			"text": [
+				"By purchasing more than 2,000 RAD, you will get a Signature series RAD card. Only first 100 contributors will get the card.",
+				"By purchasing more than 60,000 RAD, you will get a Founders series RAD card and an exclusive accessory"
+			]
+		}
+	},
+	"referral": {
+		"title": "Referral bonuses",
+		"sideTitle": "Referral",
+		"backgroundTitle": "Referral bonuses",
+		"text": "Buy at least 600 RAD and get a unique link. Every time someone contributes with your link, you get a 3% bonus!",
+		"bonus": "3% bonus!",
+		"img": "img/referral-img.png",
+		"imgAlt": "red card application"
+	},
+	"goals": {
+		"title": "Goals",
+		"backgroundTitle": "Goals",
+		"sideTitle": "Goals",
+		"items": [
+			{
+				"number": "01",
+				"title": "$1 million minimum investment goal",
+				"label": "One-year runway",
+				"list": [
+					"Laun the RAD credit card MVP.",
+					"Launch the RAD wallet app MVP.",
+					"Launching the P2P RAD lending platform MVP."
+				]
+			},
+			{
+				"number": "02",
+				"title": "With an additional $7 million raised",
+				"label": "Two-year runway",
+				"list": [
+					"Expand functionality of the RAD credit card and wallet app.",
+					"Expand credit card issuer partnerships.",
+					"Expand features of the P2P platform.",
+					"Launch a personal loan product and small-business loan.",
+					"Work on regulatory compliance for core markets."
+				]
+			},
+			{
+				"number": "03",
+				"title": "With an additional $12 million raised",
+				"label": "Four-year runway",
+				"list": [
+					"Contribute to the underlying technology platform development. The RAD lending platform will benefit from better loan matchmaking and currency exchange functionality.",
+					"Add Bitcoin blockchain support.",
+					"Expand credit card issuer partnerships.",
+					"Expand geography for the product, obtaining necessary licenses on regulated markets."
+				]
+			},
+			{
+				"number": "04",
+				"title": "With an additional $15 million raised ",
+				"list": [
+					"Expand geography for the product and apply for necessary licenses on regulated markets.",
+					"Add new types of credit products-such as reward cards and new types of loans.)",
+					"Enter the US market with credit and investment products.",
+					"Develop cross-blockchain functionality for the underlying technology platform.",
+					"Develop a blockchain-based personal credit history.",
+					"Develop an an in-house credit-scoring model based on machine learning technology, transaction data and credit behavior."
+				]
+			},
+			{
+				"number": "05",
+				"title": "With an additional $15 million raised",
+				"list": [
+					"Recruit an in-house banking team",
+					"Launch credit products for the general public—such as unsecured loans and unsecured credit cards.",
+					"Communicate with financial regulators in strategic business regions.",
+					"Obtain banking licenses in strategic regions."
+				]
+			}
+		]
+	},
+	"faq": {
+		"title": "FAQ",
+		"bgTitle": "FAQ",
+		"bgSubTitle": "FAQ",
+		"sideTitle": "FAQ",
+		"accordions": [
+			{
+				"title": "What is a RAD platform?",
+				"texts": [
+					"We are building a RAD platform a first P2P platform for crypto-secured lending. What is a crypto-secured lending? When lenders lend money to a borrower, they usually want to see a collateral to secure the repayment of the loan. In a mortgage, a house is a collateral, in a car loan, a car is a collateral. We propose a concept of crypto-secured lending when the loan is secured by borrower’s crypto holdings."
+				]
+			},
+			{
+				"title": "Who holds the collateral then?",
+				"texts": [
+					"The collateral is held in a smart contract in a decentralized way, so the risk of a bad-faith lender or a platform failure is minimized. If the loan is repaid according to the schedule, the collateral will be released back to the borrower automatically."
+				]
+			},
+			{
+				"title": "Why not just sell an asset instead borrowing against it?",
+				"texts": [
+					"More and more classes of crypto assets come online every day. Each of them has different characteristics – high and low market caps, high and low liquidity, but almost all of them are very volatile. Many crypto investors are textbook examples of “Asset Rich and Cash Poor” – holding back important purchases because do not want to miss another epic run. There is a HODL! meme for a reason! We want to give an elegant solution to this problem, by providing much-needed liquidity for crypto investors."
+				]
+			},
+			{
+				"title": "What is a RAD card?",
+				"texts": [
+					"RAD card is a first credit card with a credit limit that is secured by person’s crypto assets."
+					]
+			},
+			{
+				"title": "What is a RAD token?",
+				"texts": [
+					"RAD token is the ER20 token that is issued for funding the development of the RAD platform and a family of credit products, build on it. Token holders will receive a share of platform revenue."
+					]
+			}
+		]
+	},
+	"roadmap": {
+		"title": "Roadmap",
+		"bgTitle": "Roadmap",
+		"sideTitle": "Roadmap",
+		"chart": [
+			{
+				"year": "2016",
+				"pillar": "first",
+				"texts": [
+					"Concept and research"
+				]
+			},
+			{
+				"label": "November",
+				"year": "2017",
+				"pillar": "second",
+				"texts": [
+					"Token sale starts"
+				]
+			},
+			{
+				"label": "January",
+				"year": "2018",
+				"pillar": "third",
+				"texts": [
+					"Token sale ends"
+				]
+			},
+			{
+				"label": "Q1",
+				"year": "2018",
+				"pillar": "fourth",
+				"texts": [
+					"RAD Card MVP launch",
+					"iOS, Android wallet app MVP launch",
+					"P2P platform MVP launch"
+				]
+			},
+			{
+				"label": "Q2-Q4",
+				"year": "2018",
+				"pillar": "fifth",
+				"texts": [
+					"Marketing push, grow client pool and investors network, accumulate loan volume",
+					"Expand card issuer partnerships and work on regulatory compliance in core markets",
+					"Expand platform, integrating new blockchains"
+				]
+			},
+			{
+				"year": "2018-2019",
+				"pillar": "sixth",
+				"texts": [
+					"Work on licensing and compliance in highly regulated markets, US credit and investment products"
+				]
+			},
+			{
+				"year": "2020",
+				"pillar": "seventh",
+				"texts": [
+					"Obtain banking licenses in strategic regions"
+				]
+			}
+		]
+	},
+	"partners": {
+		"title": "Partners",
+		"bgTitle": "Partners",
+		"sideTitle": "Partners",
+		"items": [
+			{
+				"img": "lykke-logo.png",
+				"href": "https://www.lykke.com/",
+				"text": "Swiss based fintech company building a global marketplace based on blockchain. As a founding partner, ICO platform and technology platform provider for RAD lending platform, Lykke partnership will facilitate building RAD platform and ensure its success. "
+			}
+		]
+	},
+	"team": {
+		"title": "Meet the Team",
+		"sections": [
+			{
+				"bgTitle": "Core team",
+				"sideTitlePosition": "right",
+				"sideTitle": "Core team",
+				"items": [
+					{
+						"img": "Alex-Gerasimov.png",
+						"href": "https://www.linkedin.com/in/alexandr-g-2b699830/",
+						"name": "Aleksandr Gerasimov",
+						"position": "CEO",
+						"text": "IT manager with 10+ years of experience in government and private sector. Led multi-million dollar projects forInternational Monetary Fund, Central Bank of Russia and commercial banks. <br />Experienced in banking and finance, IT management, digital marketing. Internet entrepreneur with several projects under the belt."
+					},
+					{
+						"img": "Mikhail-Nikulin.png",
+						"href": "https://www.linkedin.com/in/mikhail-nikulin-b5a3a35b/",
+						"name": "Mikhail Nikulin",
+						"position": "CTO",
+						"text": "Designer and architect of a partly decentralized crypto trading exchange solution. Pioneered in real-life implementation of off-chain solutions for trading applications. <br />Michael is an architect, designer and developer with 10+ year experience in creating market solutions for financial institutions, including Anti-Money Laundering, Fraud Detection and Financial Markets Compliance solutions. <br />Combines deep knowledge of financial architecture with Blockchain settlement mechanisms. "
+					},
+					{
+						"img": "Alexander-Spuller.png",
+						"href": "https://www.linkedin.com/in/spuller-alexander-a3ab2723/",
+						"name": "Alexander Spuller",
+						"position": "Business Development",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+					}
+				]
+			},
+			{
+				"bgTitle": "ADVISORS",
+				"sideTitlePosition": "left",
+				"sideTitle": "Advisors",
+				"items": [
+					{
+						"img": "sergey-ivliev.png",
+						"name": "Sergey Ivliev",
+						"position": "Finance, Markets, Blockchain",
+						"text": "Seasoned C-level executive in IT, banking, Blockchain and fintech. <br />Regional director at PRMIA Russia, associate professor at Perm State University and head of Laboratory of Cryptoeconomics and Blockchain Systems. <br />Named Best Risk Manager in Russia and CIS "
+					}
+				]
+			},
+			{
+				"class": "partners",
+				"bgTitle": "MEMBERS",
+				"sideTitlePosition": "right",
+				"sideTitle": "TEAM",
+				"items": [
+					{
+						"img": "garrett-steele.jpg",
+						"name": "Svyatoslav Tiunov",
+						"position": "Core Developer",
+						"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+					}
+				]
+			}
+		]
+	},
+	"press": {
+		"sideTitleLeft": "Press",
+		"sideTitleRight": "Press",
+		"title": "Press",
+		"bgTitle": "Press",
+		"items": [
+			{
+				"logo": "new-york-times.svg",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"linkText": "https://www.nytimes.com/",
+				"href": "https://www.nytimes.com/"
+			},
+			{
+				"logo": "cnn.svg",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"linkText": "https://www.nytimes.com/",
+				"href": "https://www.nytimes.com/"
+			},
+			{
+				"logo": "nbs-news.svg",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"linkText": "https://www.nytimes.com/",
+				"href": "https://www.nytimes.com/"
+			},
+			{
+				"logo": "nbs-news.svg",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"linkText": "https://www.nytimes.com/",
+				"href": "https://www.nytimes.com/"
+			},
+			{
+				"logo": "new-york-times.svg",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"linkText": "https://www.nytimes.com/",
+				"href": "https://www.nytimes.com/"
+			},
+			{
+				"logo": "cnn.svg",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+				"linkText": "https://www.nytimes.com/",
+				"href": "https://www.nytimes.com/"
+			}
+		]
+	},
+	"footer": {
+		"contacts": {
+			"title": "Contacts",
+			"icons": [
+				{
+					"icon": "slack",
+					"link": "#"
+				},
+				{
+					"icon": "twitter",
+					"link": "#"
+				},
+				{
+					"icon": "facebook",
+					"link": "#"
+				}
+			],
+			"fields": [
+				{
+					"text": "Investors",
+					"mail": "ir@radlending.com"
+				},
+				{
+					"text": "Carers",
+					"mail": "hr@radlending.com"
+				},
+				{
+					"text": "2017 (c) RAD Lending Ins.",
+					"mail": ""
+				}
+			]
+		},
+		"texts": [
+			"No money or other consideration is being solicited for our Regulation A+ offering at this time and if sent in to RAD Lending, Inc. will not be accepted.  No offer to buy securities in a Regulation A+ offering of RAD Lending can be accepted and no part of the purchase price can be received until RAD Lending’s offering statement is qualified with the SEC.  Any such offer to buy securities may be withdrawn or revoked, without obligation or commitment of any kind, at any time before notice of its acceptance given after the qualification date.  Any indications of interest in RAD Lending’s offering involves no obligation or commitment of any kind.",
+			"RAD Lending Inc. is testing the waters under Regulation A of the Securities Act of 1933, as amended. This process allows companies to determine whether there may be interest in an eventual offering of its securities.  RAD Lending is not under any obligation to make an offering under Regulation A.  RAD Lending may choose to make an offering to some, but not all, of the people who indicate an interest in investing, and that offering may not be made under Regulation A.  For example, RAD Lending may determine to proceed with an offering under Rule 506(c) of Regulation D, in which case we will only offer our securities to accredited investors as defined by Rule 501(a) of Regulation D.  If RAD Lending does go ahead with an offering under Regulation A, it will only be able to make sales after it has filed an offering statement with the Securities and Exchange Commission (“SEC”) and only after the SEC has qualified such offering statement.  The information in the offering statement will be more complete than the test-the-waters materials and could differ in important ways.  You must read the offering statement filed with the SEC."
+		]
+	}
+}

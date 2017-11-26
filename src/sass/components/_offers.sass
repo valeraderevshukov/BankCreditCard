@@ -1,0 +1,87 @@
+.offers
+	padding-top: 10px
+.section
+	&__title
+		padding: 96px 0 30px
+
+.offer
+	padding: 30px 10px 58px 7px
+	+font-smoothing
+	+md
+		padding: 30px 10px 38px 7px 
+	&:not(:last-child)
+		margin-bottom: 10px
+	&_gray
+		border-radius: 5px
+		background-color: #f9f9f9
+	&__title
+		margin-bottom: 28px
+	&__table
+		width: 100%
+		min-height: 130px
+		table-layout: fixed
+		display: table
+		+md
+			min-height: 90px 
+		& > div
+			vertical-align: middle
+			display: table-cell
+	&__img
+		padding-left: 0
+		width: 19.2%
+		.offer_small &
+			width: 140px
+		img
+			max-width: 100%
+			display: block
+	&__limit
+		width: 20.9%
+		+md
+			padding-left: 25px 
+		.offer_small &
+			padding-left: 45px
+			width: 205px
+	&__rate
+		width: 16.3%
+		.offer_small &
+			width: 175px
+	&__service
+		width: 19.2%
+		.offer_small &
+			padding-left: 45px
+			+md
+				padding-left: 15px
+		+md
+			padding-left: 15px
+	&__rate
+		padding-left: 45px
+		+md
+			padding-left: 15px
+	&__limit,
+	&__service
+		padding-left: 55px
+	&__btns
+		text-align: right
+	&__text
+		color: #181819
+		font-size: 20px
+		+md
+			font-size: 18px
+	&__numb
+		font-size: 30px
+		+md
+			font-size: 18px
+	&__tools
+		margin-left: 2px
+		font-size: 24px
+		+md
+			font-size: 18px
+		.offer__indicators_mod &
+			margin-left: -5px 
+	&__link
+		color: #595e64
+		font-size: 14px
+		transition: border-color .3s
+		border-bottom: 1px solid 
+		+hover
+			border-color: transparent

@@ -1,0 +1,526 @@
+{
+	"sections": [
+		{
+			"offers": [
+				{
+					"classMod": "small",
+					"offer_name": "Кредитная карта ВТБ 24",
+					"offer_image": "vtb24",
+					"offer_cl": {
+						"text": "кредит до",
+						"indicators": {
+							"numb": "500 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"numb": "12",
+							"tools": "%"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "36",
+							"tools": "мес."
+						}
+					},
+					"link": {
+						"href": "#",
+						"text": "Обзор эксперта на BankCreditCard"
+					}
+				}
+			]
+		},
+		{
+			"id": "best",
+			"offers": [
+				{
+					"classBg": "gray",
+					"offer_name": "Лучшая кредитная карта: Тинькофф Платинум",
+					"offer_image": "tinkoff",
+					"offer_cl": {
+						"text": "лимит до",
+						"indicators": {
+							"numb": "300 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"numb": "13",
+							"tools": "%"
+						}
+					},
+					"offer_service": {
+						"text": "обслуживание",
+						"indicators": {
+							"numb": "590",
+							"tools": "руб."
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ КАРТУ"
+					}
+				},
+				{
+					"offer_name": "Лучший кредит наличными: Восточный Экспресс Банк",
+					"offer_image": "east-express-bank",
+					"offer_cl": {
+						"text": "кредит до",
+						"indicators": {
+							"numb": "500 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"numb": "12",
+							"tools": "%"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "36",
+							"tools": "мес."
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ КРЕДИТ"
+					}
+				},
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				}
+			]
+		},
+		{
+			"id": "micro",
+			"title": "Микрозаймы",
+			"offers": [
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				}
+			]
+		},
+		{
+			"id": "loans",
+			"title": "Потребительские кредиты",
+			"offers": [
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				}
+			]
+		},
+		{
+			"id": "cards",
+			"title": "Кредитные карты",
+			"offers": [
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				}
+			]
+		},
+		{
+			"id": "other",
+			"title": "Другие предложения",
+			"offers": [
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				},
+				{
+					"classBg": "gray",
+					"offer_name": "Лучший микрозайм: Кредито 24",
+					"offer_image": "kredito24",
+					"offer_cl": {
+						"text": "сумма до",
+						"indicators": {
+							"numb": "50 000",
+							"tools": "руб"
+						}
+					},
+					"offer_apr": {
+						"text": "ставка от",
+						"indicators": {
+							"classMod": "mod",
+							"numb": "1",
+							"tools": "% в день"
+						}
+					},
+					"offer_service": {
+						"text": "срок до",
+						"indicators": {
+							"numb": "4",
+							"tools": "недели"
+						}
+					},
+					"btn": {
+						"href": "#",
+						"text": "ПОЛУЧИТЬ ЗАЙМ"
+					}
+				}
+			]
+		}
+	]
+	
+}

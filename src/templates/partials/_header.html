@@ -1,0 +1,26 @@
+<!-- header -->
+<header class="header js-header">
+	<div class="header__top">
+		<div class="header__inner inner">
+			<h1 href="/" class="header__logo logo">
+				<a href="/">
+					<img src="img/logo.svg" alt="BankCreditCard.ru">
+					<span class="logo__text">BankCreditCard.ru</span>
+				</a>
+			</h1>
+			<div class="header__info">{{ headerTop.rightText }}</div>
+		</div>
+	</div>
+	<div class="header__nav js-nav">
+		<div class="header__inner inner">
+			<ul class="nav">
+				{% for item in navigation %}
+					<li class="nav__item">
+						<a href="{{item.href}}" class="nav__link js-nav-link {% if loop.first %}is-active{% endif %}">{{item.title}}</a>
+					</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</header>
+<!-- ¯\_(ツ)_/¯ -->

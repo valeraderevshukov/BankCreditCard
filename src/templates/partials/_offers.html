@@ -1,0 +1,50 @@
+<!-- offers -->
+<div class="offers">
+	<div class="offers__inner inner">
+		{% for section in sections %}
+			<div class="section" {% if section.id %}data-section="{{ section.id }}"{% endif %}>
+				{% if section.title %}
+					<h2 class="section__title title-lg">{{ section.title }}</h2>
+				{% endif %}
+				{% for offer in section.offers %}
+					<div class="offer{% if offer.classMod %} offer_{{ offer.classMod }}{% endif %}{% if offer.classBg %} offer_{{ offer.classBg }}{% endif %}">
+						<h3 class="offer__title title-md">{{ offer.offer_name }}</h3>
+						<div class="offer__table">
+							<div class="offer__img">
+								<img src="./img/{{ offer.offer_image }}.png" alt="{{ offer.offer_name }}">
+							</div>
+							<div class="offer__limit">
+								<div class="offer__text">{{ offer.offer_cl.text }}</div>
+								<div class="offer__indicators{% if offer.offer_cl.indicators.classMod %} offer__indicators_{{ offer.offer_cl.indicators.classMod }}{% endif %}">
+									<span class="offer__numb">{{ offer.offer_cl.indicators.numb }}</span>
+									<span class="offer__tools">{{ offer.offer_cl.indicators.tools }}</span>
+								</div>
+							</div>
+							<div class="offer__rate">
+								<div class="offer__text">{{ offer.offer_apr.text }}</div>
+								<div class="offer__indicators{% if offer.offer_apr.indicators.classMod %} offer__indicators_{{ offer.offer_apr.indicators.classMod }}{% endif %}">
+									<span class="offer__numb">{{ offer.offer_apr.indicators.numb }}</span>
+									<span class="offer__tools">{{ offer.offer_apr.indicators.tools }}</span>
+								</div>
+							</div>
+							<div class="offer__service">
+								<div class="offer__text">{{ offer.offer_service.text }}</div>
+								<div class="offer__indicators{% if offer.offer_service.indicators.classMod %} offer__indicators_{{ offer.offer_service.indicators.classMod }}{% endif %}">
+									<span class="offer__numb">{{ offer.offer_service.indicators.numb }}</span>
+									<span class="offer__tools">{{ offer.offer_service.indicators.tools }}</span>
+								</div>
+							</div>
+							<div class="offer__btns">
+								{% if offer.btn %}
+								<a href="{{ offer.btn.href }}" class="offer__btn btn" target="_blank">{{ offer.btn.text }}</a>
+								{% endif %}
+							</div>
+						</div>
+						<a href="{{ offer.link.href }}" class="offer__link" target="_blank">{{ offer.link.text }}</a>
+					</div>
+				{% endfor %}
+			</div>
+		{% endfor %}
+	</div>
+</div>
+<!-- ¯\_(ツ)_/¯ -->
