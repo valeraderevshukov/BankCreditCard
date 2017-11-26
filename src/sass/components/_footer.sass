@@ -4,12 +4,23 @@
 	border-top: 1px solid #d9d9d9
 	background-color: #f7f7f7
 	+font-smoothing
+	+sm
+		padding: 12px 30px
 	a
 		color: #181819
 		font-size: 24px
 		transition: border-color .3s
 		border-bottom: 1px solid transparent 
+		+sm
+			font-size: 15px
 		+hover
 			border-color: currentColor 
+	&__row
+		font-size: 0
 	&__col
+		float: none
 		margin-bottom: 5px
+		vertical-align: top
+		display: inline-block
+		+sm
+			margin-bottom: 12px

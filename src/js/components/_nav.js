@@ -19,6 +19,7 @@ import { SCROLL_TO } from '../_utils';
       .offset().top;
 
     SCROLL_TO(position);
+    $btn.trigger('click');
   });
 
   $btn.click(e => {

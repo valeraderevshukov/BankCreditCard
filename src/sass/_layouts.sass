@@ -1,8 +1,13 @@
+.out
+	overflow: hidden
+
 .inner
 	margin: 0 auto
 	padding: 0 15px
 	max-width: 1090px
 	+clr
+	+sm
+		padding: 0 12px
 
 .row
 	margin: 0 -15px
@@ -12,3 +17,9 @@
 	float: left
 	padding: 0 30px
 	width: 33.3%
+	&-sm
+		+sm
+			width: 50%
+	&-xs
+		+xs
+			width: 100%

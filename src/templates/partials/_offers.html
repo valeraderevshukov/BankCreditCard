@@ -14,6 +14,7 @@
 								<img src="./img/{{ offer.offer_image }}.png" alt="{{ offer.offer_name }}">
 							</div>
 							<div class="offer__limit">
+								{{ mixins.icon('check') }}
 								<div class="offer__text">{{ offer.offer_cl.text }}</div>
 								<div class="offer__indicators{% if offer.offer_cl.indicators.classMod %} offer__indicators_{{ offer.offer_cl.indicators.classMod }}{% endif %}">
 									<span class="offer__numb">{{ offer.offer_cl.indicators.numb }}</span>
@@ -21,6 +22,7 @@
 								</div>
 							</div>
 							<div class="offer__rate">
+								{{ mixins.icon('check') }}
 								<div class="offer__text">{{ offer.offer_apr.text }}</div>
 								<div class="offer__indicators{% if offer.offer_apr.indicators.classMod %} offer__indicators_{{ offer.offer_apr.indicators.classMod }}{% endif %}">
 									<span class="offer__numb">{{ offer.offer_apr.indicators.numb }}</span>
@@ -28,6 +30,7 @@
 								</div>
 							</div>
 							<div class="offer__service">
+								{{ mixins.icon('check') }}
 								<div class="offer__text">{{ offer.offer_service.text }}</div>
 								<div class="offer__indicators{% if offer.offer_service.indicators.classMod %} offer__indicators_{{ offer.offer_service.indicators.classMod }}{% endif %}">
 									<span class="offer__numb">{{ offer.offer_service.indicators.numb }}</span>

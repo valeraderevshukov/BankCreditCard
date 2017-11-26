@@ -2,33 +2,109 @@
 	&__top
 		padding: 51px 0 10px
 		border-bottom: 1px solid #d9d9d9 
+		+sm
+			padding: 12px 0 6px
 	&__nav
 		padding: 10px 0 0
 		border-bottom: 1px solid #d9d9d9 
+		&.is-open
+			transform: translateX(-274px)
+		+sm
+			position: absolute
+			top: 47px
+			left: 100%
+			padding: 0
+			width: 274px
+			transition: transform .3s
+			background-color: white
+			border: 1px solid #abafb5
+		.header__inner
+			+sm
+				padding: 0
 	&__logo
 		float: left
 		margin: -30px 0 -7px
+		+sm
+			margin: 0
 	&__info
 		float: right
 		color: #787a7f
 		font-size: 18px
 		+font-smoothing
+		+sm
+			display: none
+.btn-menu
+	position: relative
+	float: right
+	margin-top: 2px
+	width: 16px
+	height: 16px
+	background-color: transparent 
+	display: none
+	+sm
+		display: block
+	&.is-active
+		&:before
+			transform: translate(2px, 13px) rotate(-45deg)
+		&:after
+			transform: translate(2px, -13px) rotate(45deg)
+		span
+			opacity: 0
+	&:before,
+	&:after,
+	span
+		position: absolute
+		content: "" 
+		left: 0
+		width: 16px
+		height: 2px
+		transition: opacity .3s, transform .3s
+		border-radius: 2px 
+		background-color: #9d9d9d
+	&:before
+		top: 0
+		transform-origin: top left 
+	&:after
+		bottom: 0
+		transform-origin: bottom left 
+	span
+		top: 50%
+		margin-top: -1px
+		&:before
+			position: absolute
+			content: "" 
+			top: 50%
+			left: 50%
+			transform: translate(-50%,-50%)
+			width: 30px
+			height: 30px
 .logo
 	font-size: 24px
 	display: inline-block
 	+clr
 	img
 		float: left
+		+sm
+			width: 26px
 	&__text
 		float: right
+		margin: 22px 0 0 3px
 		color: #181819
 		font-weight: 400 
-		margin: 22px 0 0 3px
+		+sm
+			margin: 12px 0 0 3px 
+			font-size: 12px
 .nav
 	+justify
+	+sm
+		text-align: initial
+		text-justify: initial
+		text-align-last: initial
 	&__item
 		vertical-align: top
 		display: inline-block
+		+sm
+			display: block
 	&__link
 		position: relative
 		padding: 18px 6px
@@ -38,6 +114,10 @@
 		display: block
 		+md
 			font-size: 16px 
+		+sm
+			padding: 14px 23px
+			color: #090909
+			font-size: 15px
 		&:before
 			position: absolute
 			content: ""
@@ -48,9 +128,13 @@
 			opacity: 0
 			transition: opacity .3s
 			background-color: #fcd845 
+			+sm
+				display: none
 		+hover
 			&:before
 				opacity: 1
 		&.is-active
+			+sm
+				background-color: #d0d8e4 
 			&:before
 				opacity: 1
