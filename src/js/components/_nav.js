@@ -1,5 +1,5 @@
 import { BODY, OPEN, ACTIVE } from '../_constants';
-import { SCROLL_TO } from '../_utils';
+import { SCROLL_TO, TOUCH } from '../_utils';
 
 (() => {
 
@@ -19,6 +19,7 @@ import { SCROLL_TO } from '../_utils';
       .offset().top;
 
     SCROLL_TO(position);
+    if (!TOUCH()) return;
     $btn.trigger('click');
   });
 
