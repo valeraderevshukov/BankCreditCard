@@ -28,77 +28,78 @@
 	"footer": {
 		"links": [
 			{
-				"text": "Тинькофф",
-				"href": "#"
+				"text": "Альфа банк",
+				"href": "http://bankcreditcard.ru/alfa"
 			},
 			{
-				"text": "Промсвязьбанк",
-				"href": "#"
+				"text": "Восточный экспресс",
+				"href": "http://bankcreditcard.ru/vostochny-express"
 			},
 			{
-				"text": "Банк Москвы",
-				"href": "#"
+				"text": "ВТБ-Банк Москвы",
+				"href": "http://bankcreditcard.ru/karta-bank-moskvy"
 			},
 			{
-				"text": "Райффайзенбанк",
-				"href": "#"
-			},
-			{
-				"text": "Бинбанк",
-				"href": "#"
-			},
-			{
-				"text": "Росбанк",
-				"href": "#"
-			},
-			{
-				"text": "Тинькофф",
-				"href": "#"
-			},
-			{
-				"text": "Промсвязьбанк",
-				"href": "#"
-			},
-			{
-				"text": "Банк Москвы",
-				"href": "#"
+				"text": "ОТП Банк",
+				"href": "http://bankcreditcard.ru/otp-bank-karta"
 			},
 			{
 				"text": "Райффайзенбанк",
-				"href": "#"
+				"href": "http://bankcreditcard.ru/raiffaizenbank-cards"
 			},
 			{
-				"text": "Бинбанк",
-				"href": "#"
+				"text": "Ренессанс Кредит",
+				"href": "http://bankcreditcard.ru/renessans"
 			},
 			{
-				"text": "Росбанк",
-				"href": "#"
+				"text": "Русский стандарт",
+				"href": "http://bankcreditcard.ru/russkiy-standart"
 			},
 			{
-				"text": "Тинькофф",
-				"href": "#"
+				"text": "Ситибанк",
+				"href": "http://bankcreditcard.ru/kreditnye-karty-citibank"
+			},
+			{
+				"text": "Сбербанк",
+				"href": "http://bankcreditcard.ru/sberbank"
 			},
 			{
 				"text": "Промсвязьбанк",
-				"href": "#"
+				"href": "http://bankcreditcard.ru/kreditnaya-karta-promsvyazbank"
 			},
 			{
-				"text": "Банк Москвы",
-				"href": "#"
+				"text": "Тинькофф",
+				"href": "http://bankcreditcard.ru/tinkoff"
 			},
 			{
-				"text": "Райффайзенбанк",
-				"href": "#"
+				"text": "Хоум Кредит",
+				"href": "http://bankcreditcard.ru/homecredit"
 			},
 			{
-				"text": "Бинбанк",
-				"href": "#"
+				"text": "Дебетовые",
+				"href": "http://bankcreditcard.ru/categories/debetovye"
 			},
 			{
-				"text": "Росбанк",
-				"href": "#"
+				"text": "Карты с 18 лет",
+				"href": "http://bankcreditcard.ru/18"
+			},
+			{
+				"text": "Карты с 20 лет",
+				"href": "http://bankcreditcard.ru/s20let"
+			},
+			{
+				"text": "Онлайн займ на карту",
+				"href": "http://bankcreditcard.ru/zaim-na-kartu"
+			},
+			{
+				"text": "Пенсионерам",
+				"href": "http://bankcreditcard.ru/senior"
+			},
+			{
+				"text": "С бонусными милями",
+				"href": "http://bankcreditcard.ru/bonus-miles"
 			}
+			
 		]
 	}
 }
