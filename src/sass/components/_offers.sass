@@ -6,10 +6,10 @@
 .section
 	&__title
 		padding: 96px 0 30px
-		+md
-			padding: 56px 0 30px 
-		+sm
-			padding: 30px 10px
+		// +md
+		// 	padding: 56px 0 30px 
+		// +sm
+		// 	padding: 65px 10px 30px
 
 .offer
 	padding: 30px 10px 58px 7px
@@ -44,6 +44,9 @@
 		min-height: 130px
 		table-layout: fixed
 		display: table
+		.offer_small &
+			+sm
+			margin-bottom: 15px
 		+md
 			min-height: 90px 
 		+sm
@@ -66,9 +69,6 @@
 			margin: 0 auto 16px
 			width: 200px
 			order: 1
-		.offer_small &
-			margin-bottom: 15px
-			width: 140px
 		img
 			max-width: 100%
 	&__limit
@@ -172,7 +172,9 @@
 		border-bottom: 1px solid 
 		+hover
 			border-color: transparent
-		.offer_small &
-			font-size: 18px
-			+md
-				font-size: 14px
+.offer_small
+	.offer__img
+		margin-bottom: 15px
+		width: 140px
+		+sm
+			width: 100px

@@ -1,23 +1,48 @@
 .header
 	position: relative
+	background-color: #FFF 
+	padding-bottom: 77px
+	z-index: 100
+	+sm
+		position: fixed
+		left: 0
+		top: 0
+		right: 0
+		padding-bottom: 0
 	&__top
 		padding: 51px 0 10px
 		border-bottom: 1px solid #d9d9d9 
 		+sm
 			padding: 12px 0 6px
 	&__nav
+		position: absolute
+		left: 0
+		right: 0
+		top: 87px
 		padding: 10px 0 0
+		background-color: #FFF 
 		border-bottom: 1px solid #d9d9d9 
+		.is-fixed &
+			position: fixed
+			top: 0
+			left: 0
+			right: 0
+			+sm
+				position: absolute
+				top: 71px
+				left: 100%
+				right: auto
 		&.is-open
-			transform: translateX(-274px)
+			+sm
+				transform: translateX(-274px)
 		+sm
 			position: absolute
-			top: 47px
+			top: 71px
 			left: 100%
 			padding: 0
 			width: 274px
 			transition: transform .3s
-			background-color: white
+			background-color: #FFF
 			border: 1px solid #abafb5
 		.header__inner
 			+sm
@@ -37,7 +62,7 @@
 .btn-menu
 	position: relative
 	float: right
-	margin-top: 2px
+	margin-top: 16px
 	width: 16px
 	height: 16px
 	background-color: transparent 
@@ -81,20 +106,24 @@
 			height: 30px
 .logo
 	font-size: 24px
+	width: 266px
 	display: inline-block
 	+clr
+	+sm
+		width: 242px
 	img
 		float: left
-		+sm
-			width: 26px
+	a
+		display: block
+		+clr
 	&__text
 		float: right
-		margin: 22px 0 0 3px
+		margin: 22px 0 0 0
 		color: #181819
 		font-weight: 400 
 		+sm
-			margin: 12px 0 0 3px 
-			font-size: 12px
+			margin: 24px 0 0 3px
+			font-size: 21px
 .nav
 	+justify
 	+sm
